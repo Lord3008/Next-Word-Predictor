@@ -1,4 +1,7 @@
 ## Next Word Predictor:
+<br>
+Author: Lord Sen
+<br>
 This is an NLP based project done by me on a small scale to predict the next words we are going to type.
 
 A Next Word Predictor project using Natural Language Processing (NLP) is a common application that aims to predict the next word in a sentence given the preceding words. This project involves various NLP techniques and models to analyze and generate text. Here’s a short note on the key aspects of such a project:
