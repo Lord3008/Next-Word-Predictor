@@ -1,5 +1,4 @@
 ## Next Word Predictor:
-<br>
 Author: Lord Sen
 <br>
 This is an NLP based project done by me on a small scale to predict the next words we are going to type.
